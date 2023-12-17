@@ -1,0 +1,1 @@
+Submit your work using this GitHub repository. Tizen project place in Tizen_project directory, and the decryptor that can be used on the server side for file decryption in Decryptor directory.
